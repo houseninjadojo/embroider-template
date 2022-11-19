@@ -1,8 +1,8 @@
 {
-	"name": "@twyr/embroider-addon",
+	"name": "@houseninja/embroider-addon",
 	"displayName": "Embroider Addon",
 	"description": "Basic Ember 4.0+ Addon using the Embroider build system",
-	"homepage": "https://github.com/twyr/embroider-template/tree/main/addons/embroider-addon",
+	"homepage": "https://github.com/houseninjadojo/embroider-template/tree/main/addons/embroider-addon",
 	"license": "MITNFA",
 	"readme": "README.md",
 	"version": "1.0.2",
@@ -20,6 +20,11 @@
 			"name": "Vish Desai",
 			"email": "shadyvd@hotmail.com",
 			"url": "https://github.com/shadyvd"
+		},
+		{
+			"name": "Miles Zimmerman",
+			"email": "miles@zim.dev",
+			"url": "https://github.com/mileszim"
 		}
 	],
 	"maintainers": [
@@ -31,10 +36,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/twyr/embroider-template.git"
+		"url": "git+https://github.com/houseninjadojo/embroider-template.git"
 	},
 	"bugs": {
-		"url": "https://github.com/twyr/embroider-template/issues"
+		"url": "https://github.com/houseninjadojo/embroider-template/issues"
 	},
 	"main": "addon-main.js",
 	"exports": {

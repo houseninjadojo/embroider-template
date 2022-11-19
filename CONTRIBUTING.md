@@ -2,16 +2,18 @@
 
 #### TABLE OF CONTENTS
 
--   [Getting the Code](#getting-the-code)
--   [Setting up the Environment](#setting-up-the-environment)
-    -   [Git Configuration](#setting-up-git-config-locally)
-    -   [Generating the GPG key](#generating-the-gpg-key)
--   [Building and Testing](#building-and-testing)
+- [CONTRIBUTING TO EMBER ABSTRACT DROPDOWN](#contributing-to-ember-abstract-dropdown)
+	- [TABLE OF CONTENTS](#table-of-contents)
+	- [GETTING THE CODE](#getting-the-code)
+	- [SETTING UP THE ENVIRONMENT](#setting-up-the-environment)
+		- [Generating the GPG Key](#generating-the-gpg-key)
+		- [Setting up Git Config Locally](#setting-up-git-config-locally)
+	- [BUILDING AND TESTING](#building-and-testing)
 
 #### GETTING THE CODE
 
 ```
-git clone https://github.com/twyr/embroider-template
+git clone https://github.com/houseninjadojo/embroider-template
 cd embroider-template
 npm i
 ```
@@ -20,7 +22,7 @@ npm i
 
 ##### Generating the GPG Key
 
-[Embroider Template](https://github.com/twyr/embroider-template) requires that every commit be signed before it is accepted for merging into the main branch prior to release.
+[Embroider Template](https://github.com/houseninjadojo/embroider-template) requires that every commit be signed before it is accepted for merging into the main branch prior to release.
 
 All contributors are expected to create a GPG Key and use it to sign all their commits during the development process.
 At the very minimum, all _Pull Requests_ are expected to be signed by the contributors' GPG Key prior to being accepted.

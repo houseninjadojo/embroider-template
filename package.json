@@ -1,9 +1,9 @@
 {
-	"name": "@twyr/embroider-template",
+	"name": "@houseninja/embroider-template",
 	"private": true,
 	"displayName": "Embroider Template",
 	"description": "Monorepo for an example Ember v4.0+ addon implementation using the Embroider Build System",
-	"homepage": "https://github.com/twyr/embroider-template#readme",
+	"homepage": "https://github.com/houseninjadojo/embroider-template#readme",
 	"license": "MITNFA",
 	"readme": "README.md",
 	"version": "1.0.2",
@@ -17,6 +17,11 @@
 			"name": "Vish Desai",
 			"email": "shadyvd@hotmail.com",
 			"url": "https://github.com/shadyvd"
+		},
+		{
+			"name": "Miles Zimmerman",
+			"email": "miles@zim.dev",
+			"url": "https://github.com/mileszim"
 		}
 	],
 	"maintainers": [
@@ -28,10 +33,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/twyr/embroider-template.git"
+		"url": "git+https://github.com/houseninjadojo/embroider-template.git"
 	},
 	"bugs": {
-		"url": "https://github.com/twyr/embroider-template/issues"
+		"url": "https://github.com/houseninjadojo/embroider-template/issues"
 	},
 	"dependencies": {
 		"@embroider/addon-shim": "1.8.3",
